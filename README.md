@@ -50,10 +50,7 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 
           <div align="center">
 
-          [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Saipreethamgit)
-          [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Saipreethamgit)
-          [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Saipreethamgit)
-          [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Saipreethamgit)
+          [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/saipreethamnagaswaram )
           [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saipreethamgit)
 
           </div>
@@ -94,9 +91,7 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
           I'm always open to interesting conversations, collaborations, and new opportunities.
           Feel free to reach out — let's build something amazing together! 🚀
 
-          [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@Saipreethamgit)
-          [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=flat-square&logo=medium)](https://medium.com/@Saipreethamgit)
-          [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://instagram.com/Saipreethamgit)
+          [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](linkedin.com/in/saipreethamnagaswaram)
           [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/Saipreethamgit)
 
           ---
