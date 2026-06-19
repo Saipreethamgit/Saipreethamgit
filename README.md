@@ -50,7 +50,7 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
 
           <div align="center">
 
-          [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/saipreethamnagaswaram)
+          [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/saipreethamnagaswaram)
           [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saipreethamgit)
 
           </div>
@@ -91,7 +91,7 @@ I'm a passionate **Full Stack Developer** who loves building scalable web applic
           I'm always open to interesting conversations, collaborations, and new opportunities.
           Feel free to reach out — let's build something amazing together! 🚀
 
-          [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](linkedin.com/in/saipreethamnagaswaram)
+          [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](http://linkedin.com/in/saipreethamnagaswaram)
           [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/Saipreethamgit)
 
           ---
